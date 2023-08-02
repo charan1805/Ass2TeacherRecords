@@ -1,0 +1,4 @@
+Id:01
+Name:Sam
+Class:10
+Section:A

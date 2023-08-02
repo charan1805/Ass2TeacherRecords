@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass2TeacherRecord\bin\Debug\Ass2TeacherRecord.exe.config
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass2TeacherRecord\bin\Debug\Ass2TeacherRecord.exe
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass2TeacherRecord\bin\Debug\Ass2TeacherRecord.pdb
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass2TeacherRecord\obj\Debug\Ass2TeacherRecord.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass2TeacherRecord\obj\Debug\Ass2TeacherRecord.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass2TeacherRecord\obj\Debug\Ass2TeacherRecord.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass2TeacherRecord\obj\Debug\Ass2TeacherRecord.exe
+E:\my details\personal\c sharp\ assigned projects\phase end Assesments\Ass2TeacherRecord\obj\Debug\Ass2TeacherRecord.pdb
